@@ -1,0 +1,12 @@
+# Ignores
+## General
+
+.gradle/
+gradle/
+build/
+out/
+target/
+
+*.DS_Store
+
+.idea/
